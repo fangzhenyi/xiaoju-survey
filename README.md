@@ -192,4 +192,5 @@ _任何问题和合作可以联系小助手。_
 
 ## CHANGELOG
 
-关注项目重大变更：[MAJOR CHANGELOG](https://github.com/didi/xiaoju-survey/issues/48)。
+关注项目重大变更1：[MAJOR CHANGELOG](https://github.com/didi/xiaoju-survey/issues/48)。
+
