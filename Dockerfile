@@ -1,5 +1,5 @@
 # 镜像集成
-FROM node:18-slim
+FROM node:18
 
 # 设置工作区间
 WORKDIR /xiaoju-survey
